@@ -2,7 +2,7 @@ export const Header = () => {
     return (
             <div>
                 <div id="photoProfil">
-                    <img src="image\ourphoto.jpg" alt ="photo CV" className="w-1/2 mx-auto rounded-full"/> 
+                    <img src="publicimage\ourphoto.jpg" alt ="photo CV" className="w-1/2 mx-auto rounded-full"/> 
                 </div>
                 <br></br>
         
