@@ -2,7 +2,7 @@ export const Header = () => {
     return (
             <div>
                 <div id="photoProfil">
-                    <img src="image/WhatsApp Image 2023-10-02 at 20.50.42_4e599185.png" alt ="photo CV" className="w-1/2 mx-auto rounded-full"/> 
+                    <img src="public\image\ourphoto.jpg" alt ="photo CV" className="w-1/2 mx-auto rounded-full"/> 
                 </div>
                 <br></br>
         
