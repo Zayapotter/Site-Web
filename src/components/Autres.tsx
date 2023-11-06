@@ -1,8 +1,8 @@
-export const Autres =()=>{
+export const Autres=() =>{
     return(
-        <section className="ml-1 w-100 border-4	py-5 px-5 border-black" id="Autres">
-        <h2 className="underline font-semibold "> Autres</h2><br></br>
-        <p>certificat</p>
-    </section>
-    );
+        <div className="mt-3 border-2 rounded-lg border-slate-400 p-3"id="Autres">
+            <h2 className="font-serif text-[#ad7748]"><u><i>Autres</i></u> </h2>
+                <p className="mx-6">certificat</p>
+        </div>
+    )
 }
